@@ -1,10 +1,10 @@
 {
-	"clientId": "1111111111111111111", // The id of the discord bot
-	"guildId": "1111111111111111111", // The id of the discord server
+	"clientId": "1303544338504224820", // The id of the discord bot
+	"guildId": "1303532100137521194", // The id of the discord server
 	"mainColor": "#f6c42f", // The hex color of the embeds by default
 	"lang": "main", // If you want to set english please set "main"
 
-	"openTicketChannelId": "1111111111111111111", // The id of the channel where the message to create a ticket will be sent
+	"openTicketChannelId": "1303544276751487090", // The id of the channel where the message to create a ticket will be sent
 
 	"ticketTypes": [
 		// You have a limit of 25 types (the limit of Discord)
